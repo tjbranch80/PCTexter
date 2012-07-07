@@ -1,0 +1,13 @@
+C:\Documents and Settings\tbranch\My Documents\Visual Studio 2010\Projects\PCTexter\PCTexter\bin\Debug\PCTexter.exe
+C:\Documents and Settings\tbranch\My Documents\Visual Studio 2010\Projects\PCTexter\PCTexter\bin\Debug\PCTexter.pdb
+C:\Documents and Settings\tbranch\My Documents\Visual Studio 2010\Projects\PCTexter\PCTexter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tbranch\My Documents\Visual Studio 2010\Projects\PCTexter\PCTexter\obj\x86\Debug\PCTexter.Properties.Resources.resources
+C:\Documents and Settings\tbranch\My Documents\Visual Studio 2010\Projects\PCTexter\PCTexter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\tbranch\My Documents\Visual Studio 2010\Projects\PCTexter\PCTexter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\tbranch\My Documents\Visual Studio 2010\Projects\PCTexter\PCTexter\obj\x86\Debug\PCTexter.exe
+C:\Documents and Settings\tbranch\My Documents\Visual Studio 2010\Projects\PCTexter\PCTexter\obj\x86\Debug\PCTexter.pdb
+C:\Documents and Settings\tbranch\My Documents\Visual Studio 2010\Projects\PCTexter\PCTexter\bin\Debug\PCTexter.exe.config
+C:\Documents and Settings\tbranch\My Documents\Visual Studio 2010\Projects\PCTexter\PCTexter\bin\Debug\EAGetMail40.dll
+C:\Documents and Settings\tbranch\My Documents\Visual Studio 2010\Projects\PCTexter\PCTexter\obj\x86\Debug\PCTexter.MainMenu.resources
+C:\Documents and Settings\tbranch\My Documents\Visual Studio 2010\Projects\PCTexter\PCTexter\obj\x86\Debug\PCTexter.CreateProfile.resources
+C:\Documents and Settings\tbranch\My Documents\Visual Studio 2010\Projects\PCTexter\PCTexter\obj\x86\Debug\PCTexter.CreateFriend.resources
